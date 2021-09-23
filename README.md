@@ -1,5 +1,6 @@
 # RestaurantsFinder
 Deployed on : https://ndeye-restau-finder-react.herokuapp.com/
+
 Allows a user to filter for restaurants by city and cuisine by creating separate pages for each filter, for example https://ndeye-restau-finder-react.herokuapp.com/cacequi, https://ndeye-restau-finder-react.herokuapp.com/american, https://ndeye-restau-finder-react.herokuapp.com/cacequi/american etc.
 
 The Backend is a REST API NodeJs Application.
